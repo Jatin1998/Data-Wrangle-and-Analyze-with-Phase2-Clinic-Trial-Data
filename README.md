@@ -1,4 +1,4 @@
-# The Phase II clinical trial dataset for a new oral insulin called Auralin is used for this project.
+# The Phase II clinical trial dataset for a new oral insulin called Auralin is used for this project and analysed using Pandas in Python
 
 # DISCLAIMER: This Data Isn't "Real"
 The Auralin and Novodra are not real insulin products. This clinical trial data was fabricated for the sake of this project. When assessing this data, the issues detected (and later cleaned) are meant to simulate real-world data quality and tidiness issues.
@@ -9,6 +9,3 @@ The Auralin and Novodra are not real insulin products. This clinical trial data 
 * The data quality issues in this dataset mimic real, common data quality issues in healthcare data.
 These issues impact quality of care, patient registration, and revenue.
 * The patients in this dataset were created using this fake name generator and do not include real names, addresses, phone numbers, emails, etc.
-
-# Library need to be installed :
-* pandas
